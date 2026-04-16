@@ -29,5 +29,8 @@ sudo ufw reload
 sudo systemctl restart openvpnas
 ```
 
-# Nếu không cài có thể import từ file OVA
-https://drive.google.com/file/d/1SifrYMmefQm_ZmFzhYnuUHkbKujpCi5R/view?usp=sharing
+# Có thể thể import file OVA vào VMWare (Ver 16.2.1 1881642 - VMWare Pro)
+- Link: https://drive.google.com/file/d/1SifrYMmefQm_ZmFzhYnuUHkbKujpCi5R/view?usp=sharing
+- Thông tin login sau khi import thành công:
+    - Ubuntu: sadmin/sadmin
+    - OpenVPN Server: openvpn/openVpn@123

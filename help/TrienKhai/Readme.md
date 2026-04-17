@@ -48,3 +48,4 @@ Sử dụng khi nhân viên cần làm việc từ xa (Remote work), công tác 
     - Đảm bảo các dịch vụ trong `Server Zone` đã chấp nhận kết nối từ dải IP của VPN.
 
     - Kiểm tra DNS để đảm bảo người dùng VPN có thể phân giải được tên miền nội bộ (Local Domain).
+

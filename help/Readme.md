@@ -9,7 +9,7 @@
 
     *Cách dùng*: Phù hợp khi doanh nghiệp đã có sẵn hệ thống quản lý tập trung, giúp đồng bộ tài khoản mạng nội bộ với VPN.
 
-**LDAP/Active Directory:** * Xác thực dựa trên danh bạ người dùng của Windows Server. Người dùng dùng chính tài khoản máy tính văn phòng để đăng nhập VPN.
+- **LDAP/Active Directory:** * Xác thực dựa trên danh bạ người dùng của Windows Server. Người dùng dùng chính tài khoản máy tính văn phòng để đăng nhập VPN.
 
 **2. Chứng thực 2 lớp (Multi-Factor Authentication - MFA)**
 Đây là lớp bảo mật bắt buộc để chống lại việc lộ mật khẩu:

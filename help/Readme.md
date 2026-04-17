@@ -54,4 +54,5 @@ OpenVPN có khả năng tương thích cực cao, gần như mọi thiết bị 
 ![alt text](image-1.png)
 
 2. Tải về và cài đặt -> Connet
+
 ![alt text](image-2.png)

@@ -20,4 +20,4 @@ Sử dụng khi nhân viên cần làm việc từ xa (Remote work), công tác 
     - Chiếm dụng tài nguyên xử lý của Core Switch, ảnh hưởng đến hiệu năng định tuyến nội bộ.
 
 ## Sơ đồ tổng quan
-![alt text](VPN_Client-to-Site.png)
+![alt text](<VPN_Client-to-Site with Client-to-Site VPN Access.png>)

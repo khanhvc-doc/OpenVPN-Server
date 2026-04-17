@@ -35,3 +35,6 @@ sudo systemctl restart openvpnas
 - Thông tin login sau khi import thành công:
     - Ubuntu: sadmin/sadmin
     - OpenVPN Server: openvpn/openVpn@123
+
+[Triển khai Mô hình](Help/TrienKhai/Readme.md)
+[DEMO](Help/Readme.md)
